@@ -62,6 +62,6 @@ def generateRandomPassword(password_lenght=8, with_upper_case=False, with_number
     return password
 
 
-print(generateRandomPassword(8, True, True, True))
-print(generateRandomPassword(20, True, True, True))
-print(generateRandomPassword(16, True, True, True))
+# print(generateRandomPassword(8, True, True, True))
+# print(generateRandomPassword(20, True, True, True))
+# print(generateRandomPassword(16, True, True, True))
